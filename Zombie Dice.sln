@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Zombie Dice", "Zombie Dice\Zombie Dice.pyproj", "{51096FAC-FD17-4C72-B008-3E9F117F561D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51096FAC-FD17-4C72-B008-3E9F117F561D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51096FAC-FD17-4C72-B008-3E9F117F561D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6982BBA-158F-4CB7-AA7C-A2840128AFE5}
+	EndGlobalSection
+EndGlobal
